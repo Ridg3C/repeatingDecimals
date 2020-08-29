@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1598734982 source:c:\users\checi\desktop\repeating decimals\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<sstream>
+
